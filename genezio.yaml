@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: npm run build
+        deploy: npm install
+    subdomain: aidevcollege-Llewellyn-Jokobus-Fourie
+name: aidevcollege-Llewellyn-Jokobus-Fourie
+region: us-east-1
+yamlVersion: 2
